@@ -34,11 +34,11 @@ $ yar dev or npm dev
 
 <h3> The tools were used in the construction of the project: </h3>
 
-<h4> - [Node.js](https://nodejs.org/en/) </h2>
-<h4> - [Javascript](https://www.javascriptlang.org/) </h2>
-<h4> - [express.js](https://expressjs.com/en) </h2>
+<h4> - [Node.js](https://nodejs.org/en/) </h4>
+<h4> - [Javascript](https://www.javascriptlang.org/) </h4>
+<h4> - [express.js](https://expressjs.com/en) </h4>
 
-<h4> align="center"> 
+<h4 align="center"> 
 	🚧  Express Select 🚀 Under construction...  🚧
 </h4>
 
