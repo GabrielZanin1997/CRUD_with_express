@@ -6,7 +6,7 @@
 <h2> Pré-requisitos </h2>
 
 <p>Before you begin, you will need to have this tools installed on your PC:
-[Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/). 
+[Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/), [Insomnia] https://insomnia.rest/. 
 In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/) </p>
 
 <h2> 🎲 Run the Back End (server) </h2>
@@ -37,6 +37,9 @@ $ yar dev or npm dev
 <h4> - [Node.js](https://nodejs.org/en/) </h4>
 <h4> - [Javascript](https://www.javascriptlang.org/) </h4>
 <h4> - [express.js](https://expressjs.com/en) </h4>
+
+
+<h4>🎉 Use the Insomnia to make a request and enjoy it 🎉</h4>
 
 <h4 align="center"> 
 	🚧  Express Select 🚀 Under construction...  🚧
