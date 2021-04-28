@@ -1,14 +1,15 @@
-<h1 align="center">Express</h1> ![Badge](https://img.shields.io/badge/Learn-Zanin-%237159c1?style=for-the-badge&logo=ghost)
+<h1 align="center">Express</h1> 
+<img src="https://img.shields.io/static/v1?label=Blog&message=Zanin&color=7159c1&style=for-the-badge&logo=ghost"/>
 
 <p align="center">Here we are learning about how express works, routes and middlewares</p>
 
-### Pré-requisitos
+<h2 Pré-requisitos />
 
 Before you begin, you will need to have the following tools installed on your PC:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Run the Back End (server)
+<h2 🎲 Run the Back End (server) />
 
 ```bash
 # Clone this repository
@@ -28,13 +29,13 @@ $ yar dev or npm dev
 
 # The server will start on the port:3333 - acess <http://localhost:3333>
 
-### 🛠 Technology
+<h2 🛠 Technology />
 
-The tools were used in the construction of the project:
+<h3 The tools were used in the construction of the project: />
 
-- [Node.js](https://nodejs.org/en/)
-- [Javascript](https://www.javascriptlang.org/)
-- [express.js](https://expressjs.com/en)
+<h4 - [Node.js](https://nodejs.org/en/) />
+<h4 - [Javascript](https://www.javascriptlang.org/) />
+<h4 - [express.js](https://expressjs.com/en) />
 
 <h4 align="center"> 
 	🚧  Express Select 🚀 Under construction...  🚧
