@@ -26,6 +26,7 @@ $ npm install or yarn dev
 
 # ERun the application in development mode
 $ yar dev or npm dev
+```
 
 # The server will start on the port:3333 - acess <http://localhost:3333>
 
