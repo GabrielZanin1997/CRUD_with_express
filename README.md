@@ -5,9 +5,9 @@
 
 <h2 Pré-requisitos />
 
-Before you begin, you will need to have the following tools installed on your PC:
+<p>Before you begin, you will need to have the following tools installed on your PC:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
+In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/) </p>
 
 <h2> 🎲 Run the Back End (server) </h2>
 
@@ -28,7 +28,7 @@ $ npm install or yarn dev
 $ yar dev or npm dev
 ```
 
-<h4> The server will start on the port:3333 - acess <http://localhost:3333> </h4>
+<h4> The server will start on the port:3333 - acess http://localhost:3333 </h4>
 
 <h2 🛠 Technology </h2>
 
