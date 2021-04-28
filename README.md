@@ -30,15 +30,15 @@ $ yar dev or npm dev
 
 <h4> The server will start on the port:3333 - acess http://localhost:3333 </h4>
 
-<h2 🛠 Technology </h2>
+<h2> 🛠 Technology </h2>
 
-<h3 The tools were used in the construction of the project: </h3>
+<h3> The tools were used in the construction of the project: </h3>
 
-<h4 - [Node.js](https://nodejs.org/en/) </h2>
-<h4 - [Javascript](https://www.javascriptlang.org/) </h2>
-<h4 - [express.js](https://expressjs.com/en) </h2>
+<h4> - [Node.js](https://nodejs.org/en/) </h2>
+<h4> - [Javascript](https://www.javascriptlang.org/) </h2>
+<h4> - [express.js](https://expressjs.com/en) </h2>
 
-<h4 align="center"> 
+<h4> align="center"> 
 	🚧  Express Select 🚀 Under construction...  🚧
 </h4>
 
