@@ -5,9 +5,9 @@
 
 <h2> Pré-requisitos </h2>
 
-<p>Before you begin, you will need to have the following tools installed on your PC:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/) </p>
+<p>Before you begin, you will need to have this tools installed on your PC:
+[Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/). 
+In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/) </p>
 
 <h2> 🎲 Run the Back End (server) </h2>
 
