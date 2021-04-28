@@ -3,7 +3,7 @@
 
 <p align="center">Here we are learning about how express works, routes and middlewares</p>
 
-<h2 Pré-requisitos </h2>
+<h2> Pré-requisitos </h2>
 
 <p>Before you begin, you will need to have the following tools installed on your PC:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
